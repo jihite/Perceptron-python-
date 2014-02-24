@@ -4,4 +4,6 @@ python perceptron.py n trainFile modelFile
 	python predict.py testFile modelFile
 3. Evaluate
 	python evaluate.py outFile goldFile
+	
+博客地址：http://www.cnblogs.com/kaituorensheng/p/3561091.html
 
