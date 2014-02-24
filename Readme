@@ -1,0 +1,7 @@
+1. Train Model
+python perceptron.py n trainFile modelFile
+2. Predict
+	python predict.py testFile modelFile
+3. Evaluate
+	python evaluate.py outFile goldFile
+
